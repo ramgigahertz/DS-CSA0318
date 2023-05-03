@@ -46,4 +46,19 @@ printf("%d\t",mul[i][j]);
 printf("\n");    
 }    
 return 0;  
-}  
+} 
+
+enter the number of row=3
+enter the number of column=3
+enter the first matrix element=
+1 1 1
+2 2 2
+3 3 3
+enter the second matrix element=
+1 1 1
+2 2 2
+3 3 3
+multiply of the matrix=
+6 6 6
+12 12 12
+18 18 18
